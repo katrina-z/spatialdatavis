@@ -14,4 +14,13 @@ It was difficult to identify a pattern regarding spatial accessibility between t
 
 <p align="center"><img width="468" alt="image" src="https://user-images.githubusercontent.com/77642758/188873977-3e3dce87-cafb-4c32-847d-4db1d7ec6b45.png"></p>
 
+##
+###### The purpose of this visualization was to create thematic maps to show spatial pattern of crimes in London.
+
+To create this map a data set containing various crime variables was analyzed. The variables included in this data set were buglary, crime damage, drug offences, vehicle theft, and violent crime. All of which were based on counts per 1000 persons. The map below displays that crime rates are highest in the inner boroughs of London. In general it can be seen that crime rates are reduced as the boroughs reach further away. 
+
+
+<p align="center"><img width="468" alt="image" src="https://user-images.githubusercontent.com/77642758/188876290-d3e3caca-4c19-4765-9678-37b106f4ff86.png"></p>
+
+
 
